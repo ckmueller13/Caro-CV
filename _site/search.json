@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-22T17:24:46-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Job Search",
+      "description": "Looking for a job!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-22T17:24:46-05:00"
+    }
+  ],
+  "collections": []
+}
